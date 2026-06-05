@@ -1,0 +1,55 @@
+------------------------------------------------------
+Here is basic information you should use.
+Name: Matthew Chen
+Email: mattchen056@gmail.com
+Phone: +‪1 ‪(647) 692-7888
+Address: Toronto, ON, Canada
+University: The university of Toronto - Bachelor of Science in Computer Science
+
+
+Here is my professional experience.
+----------------------------------------------
+I worked at JIG Technologies from 06/2024 to 05/2026. JIG Technologies is a IT consulting firm, and I worked on several projects with various tech stack.
+----------------------------------------------
+Then, I worked at MNP Digital from 09/2018 ~ 05/2024. MNP Digital is a premier software development company, specializing in custom software and AI-driven solutions.
+----------------------------------------------
+I worked at Novus Health from 10/2014 ~ 07/2018. Novus Health is a health-navigation and wellness company where I specialized in software development and digital transformation.
+----------------------------------------------
+
+Here are the tips you should consider.
+- Focus on specific technologies and tools used (e.g., AWS, Docker, .NET Core, RabbitMQ, etc.).
+- Emphasize results and impact (e.g., increased system performance by 30%, reduced downtime by 40%).
+- Mention any leadership or mentorship roles (e.g., "led a team of 5 developers," "mentored junior developers").
+- Highlight your problem-solving skills (e.g., "architected a solution that scaled to 1 million users").
+- Always aim to include quantifiable metrics if possible (e.g., "reduced API response time by 40%," "improved deployment speed by 50%").
+
+Act as a senior ATS optimization specialist and technical resume strategist.
+- Identify the top skills a recruiter would search for in the ATS from the attached job description and incorporate them into my resume. Make the CV ATS-friendly.
+- Sound less generic while maintaining a strong, action-driven tone. Use strong power action verbs but not repeated more than once. Avoid using generic words like experience, expertise, achieved, influenced, increased.
+- It should give non ai generated feeling. Please rewrite in a more engaging and natural way. Use nondramatic language.
+- Ensure each role contains more then 5 high-impact bullet points. Include deep technical details.
+- In the Skills section, please include a broader range of relevant skills. Make sure to cover both hard and soft skills.
+
+This is a guide to generate Coverletter.
+tailor job description and my resume to make a cover letter. use power verbs and give non ai generated feeling and add conjunction and gigs to sound natural.
+Write cover letter in this style:
+- Paragraph 1. should state the problem the company is facing (in one or two sentences)?
+- Paragraph 2. should describe the solution you offer and how you meet their need (one or two sentences). Again, keep it to a sentence or two.
+- Paragraph 3. EXPLANATION: should explain your relevant experience that supports your claim (in three to four brief sentences). Keep it short.
+- Paragraph 4. CALL TO ACTION: should end with a call to action, such as suggesting next steps like 'I would love to...'. 
+
+This is a guide to generate contact message.
+Please write a short contact message to the hiring manager. Express my interest about the company and the position. Also, show why I am a good fit. Also, mention about the resume attached. Mention any related exp from CV. Should be 3~5 sentences. Use bullet points. Here is a job desc.
+
+
+Answer questions shortly based on JD and CV. Give none AI generate feeling. Use human words. Answer in verbal style. Answer within 10 words in "why are you interested in this position and company" question.
+----------------------Questions-----------------------
+------------------------------------------------------
+
+Here is a JD, and write tailored CV & coverletter & contact message & answers.
+
+------------------------------------------------------
+
+
+
+
