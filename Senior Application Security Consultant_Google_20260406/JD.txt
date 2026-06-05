@@ -1,0 +1,25 @@
+Minimum qualifications:
+Bachelor's degree in Computer Science, Information Systems, Cybersecurity, related technical field, or equivalent practical experience.
+5 years of experience assessing and developing cybersecurity solutions and programs across security domains.
+5 years of experience working with application information security, infrastructure, software, or platforms, with cloud services.
+Ability to travel up to 30%.
+
+Preferred qualifications:
+Certifications related to specific cloud platforms.
+Experience with application development, leading application/software projects and customer relationships while working cross-functionally in organization.
+Experience implementing industry-leading practices around cyber risks and cloud security for clients’ cloud security frameworks using industry standards.
+Experience with cloud governance, with the ability to convey governance principles to cloud computing in terms of policies.
+Excellent time and project management skills.
+About the job
+In this role, you will be a part of the Mandiant Strategic team, working to help clients reduce business risk by strengthening their cybersecurity programs. You will streamline security efforts, prioritize risk mitigation, and deliver continuous improvement across the entire security landscape, including application security (AppSec) and secure software development life-cycle (SDLC) practices. You will support clients through incident response recovery, cyber program transformations, and security assessments covering infrastructure, applications, and cloud environments. As an Application Security Consultant, you will manage a workstream, acting as an advisor and achieving client objectives, bringing together cybersecurity expertise, agile principles, and project management to deliver lasting improvements to clients' security posture.
+
+Part of Google Cloud, Mandiant is a recognized leader in dynamic cyber defense, threat intelligence and incident response services. Mandiant's cybersecurity expertise has earned the trust of security professionals and company executives around the world. Our unique combination of renowned frontline experience responding to some of the most complex breaches, nation-state grade threat intelligence, machine intelligence, and the industry's best security validation ensures that Mandiant knows more about today's advanced threats than anyone.
+
+The Canada base salary range for this full-time position is CAD 166,000-170,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.
+
+Please note that the compensation details listed in Canada role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+Responsibilities
+Use cybersecurity technical skills as a DevSecOps developer or Cybersecurity developer to lead engagements as a skilled Cybersecurity Consultant and Delivery Lead.
+Lead teams to achieve measurable security risk reduction in application and cloud environments, leveraging data and security telemetry for informed decision-making.
+Advise clients on risk reduction priorities, cybersecurity best practices, and technical debt reduction, advocating automation and secure-by-design principles to reduce remediation lead times.
+Serve as a strategic AppSec advisor and instructor, guiding development teams on integrating secure coding and DevSecOps best practices while mentoring developers on modern security tools to ensure security is a continuous component of the SDLC.
